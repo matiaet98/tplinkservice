@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/app.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/info.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/reboot.js" />
+      <root url="file://$PROJECT_DIR$/dist/utils/tplink.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/information.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/users.js" />
+      <root url="file://$PROJECT_DIR$/dist/info.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/reboot.js" />
+      <root url="file://$PROJECT_DIR$/dist/utils/tplink.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/information.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/users.js" />
+      <root url="file://$PROJECT_DIR$/dist/app.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
