@@ -6,6 +6,8 @@ let information = require('../routes/information');
 let reboot = require('../routes/reboot');
 let net = require('net');
 let fs = require('fs');
+let cors = require('cors');
+
 
 let config = {
     "host" : "10.0.0.1",
@@ -107,6 +109,7 @@ client.on('close', function() {
 var app = express();
 console.log('starting');
 
+app.use(cors());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
